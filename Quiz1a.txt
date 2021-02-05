@@ -1,0 +1,11 @@
+Explain why:
+5% prevalence (90% sensitivity, 95% specificity) --> PPV 49%
+52% prevalence (90% sensitivity, 95% specificity) --> PPV 95%
+
+Answer:
+
+In the first scenario, given the small prevalence of the virus, more people will have tested positive than the actual number of infected people, while less people will have tested negative than the actual healthy people. As a result, the PPV is low, while the NPV is high.
+
+As the prevalence increases, lesser people will have tested positive than the actual number of infected people, while more people will have tested negative than the actual healthy people. As a result, the PPV increases, while the NPV decreases.
+
+Please refer to the attached Excel sheet for more details.
