@@ -4,8 +4,10 @@ Explain why:
 
 Answer:
 
-In the first scenario, given the small prevalence of the virus, more people will have tested positive than the actual number of infected people, while less people will have tested negative than the actual healthy people. As a result, the PPV is low, while the NPV is high.
+In the the small prevalence scenario, given the test sensitivity and specifity, more people will test positive than the actual number of infected people, while less people will test negative than the actual healthy people. As a result, the PPV is low, while the NPV is high.
 
-As the prevalence increases, lesser people will have tested positive than the actual number of infected people, while more people will have tested negative than the actual healthy people. As a result, the PPV increases, while the NPV decreases.
+As the prevalence in the population increases (while sensitivity/specificity of the test remain constant), lesser people will test positive than the actual number of infected people, while more people will test negative than the actual healthy people. As a result, the PPV increases, while the NPV decreases.
 
-Please refer to the attached Excel sheet for more details.
+So overall, and even though the PPV is much worse when the prevalence is low, the test accuracy is not any worse, and is in fact better.
+
+Please refer to the attached Excel sheet for the proof of these findings.
